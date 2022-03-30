@@ -8,6 +8,7 @@
 marcos-mass13/marcos-mass13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Sou Marcos aurélio estou a 8 anos estudando programação e venho desenvolvendo projeto e teste boa parte deles estão privados ainda não estou praticando e buscando novos conhecimentos
 
 <div align="center">
   <a href="https://github.com/marcos-mass13">
