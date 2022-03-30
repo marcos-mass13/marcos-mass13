@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-mass13&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcos-mass13)](https://github.com/anuraghazra/github-readme-stats)
