@@ -1,9 +1,10 @@
+<!--
 - 👋 Hi, I’m @marcos-mass13
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-<!-- - 💞️ I’m looking to collaborate on ...https://pt.slideshare.net/maludevasconcelloscunha/ppb-41061104 -->
+- 💞️ I’m looking to collaborate on ...https://pt.slideshare.net/maludevasconcelloscunha/ppb-41061104 
 - 📫 How to reach me ...
-
+-->
 <!---
 marcos-mass13/marcos-mass13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
