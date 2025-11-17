@@ -10,7 +10,7 @@ marcos-mass13/marcos-mass13 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ## Olá sou Marcos!
-## Graduado como Técnologo em Jogos Digitais. \ Pós-graduado em Analise Desenvolvimento de Sistema (ADS).
+## Graduado como Técnologo em Jogos Digitais. <br> Pós-graduado em Analise Desenvolvimento de Sistema (ADS).
 ### Sou Professor de desenvolvimento de jogos digitais e Design. 
 #### Desafios e resolução de problemas são minha paixão por isso escolho tanto a aréa da programação, todo dia uma novo desafio e conhecimento, sempre buscando melhorar meu conhecimento e softskils na aréa de TI.
 ## Seja bem vindo ao meu perfil fique avontade.
